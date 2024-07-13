@@ -1,5 +1,3 @@
-# 💫 https://github.com/JaKooLit 💫 #
-#
 # CREDIT to: https://github.com/PostCyberPunk for this Preset function
 
 ## -- Make sure you use the right answer or install script will fail ###
@@ -11,7 +9,7 @@
 aur_helper="yay"
 ############ use : "Y" or "N"
 ###-Do you have any nvidia gpu in your system?
-nvidia="Y"
+nvidia="N"
 ###-Install GTK themes (required for Dark/Light function)?
 gtk_themes="Y"
 ###-Do you want to configure Bluetooth?
